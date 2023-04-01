@@ -1,4 +1,4 @@
 hi
 <br/>
 <br/>
-<a href="people/">People</a>
+<a href="users/">Users</a>
